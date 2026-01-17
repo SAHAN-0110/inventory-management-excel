@@ -75,6 +75,7 @@ The dashboard updates dynamically as stock movement data changes.
 - Low-stock items are identified early to support timely reordering.
 - Inventory status updates automatically based on transaction data.
 - The design supports scalability with larger datasets.
+- The system distinguishes between operational risks (low stock) and data quality issues (negative inventory), enabling targeted corrective actions instead of generic alerts.
 
 ---
 
